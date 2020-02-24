@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+The code is based off of the original Zork game, only with new functions in order to fulfill the requirements for class.
+Made the edits as requested for exercise E03B - JSON:
+* Changed the exit in FORE3
+* Added description in MGRAT
+* Added a new exit in MIRR2
+* Added description on BATS
+* MINE7 has a sign
+* FCHMP, MRDE, MRDW, MRGE, MRGW, and PCELL has a new description
+* Added new exit in BKENT
+* EGYPT now has a mummy 
+* Description for DEAD7 
+* CP has a new room description

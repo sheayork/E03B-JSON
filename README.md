@@ -15,3 +15,19 @@ This exercise will give you the opportunity to edit an existing JSON file (in th
 If you need to check to see if you have produced a valid JSON file, you can validate it at https://jsonformatter.org/json-editor.
 
 Edit the LICENSE and README.md and submit a URL to your repository on Canvas.
+
+---
+
+---
+
+Made the edits as requested for exercise E03B - JSON:
+* Changed the exit in FORE3
+* Added description in MGRAT
+* Added a new exit in MIRR2
+* Added description on BATS
+* MINE7 has a sign
+* FCHMP, MRDE, MRDW, MRGE, MRGW, and PCELL has a new description
+* Added new exit in BKENT
+* EGYPT now has a mummy 
+* Description for DEAD7 
+* CP has a new room description
